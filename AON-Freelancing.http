@@ -1,0 +1,6 @@
+@AON_Freelancing_HostAddress = http://localhost:5200
+
+GET {{AON_Freelancing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
